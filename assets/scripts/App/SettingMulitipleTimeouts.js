@@ -27,7 +27,7 @@ class SettingTimeouts {
         ul.append(listItem);
       });
     }
-    let msg = `Wait a few seconds please, increasing ${number} by 1 for ${repititions} repititions...`;
+    let msg = `Wait a few seconds please, increasing ${number} by 1 for ${repititions} repetitions...`;
     ul.append(msg);
   }
 
